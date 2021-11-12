@@ -16,7 +16,7 @@ Me llamo Álvaro Zavala y estudió en la Facultad de Informática de la UAQ
 
 ## Mi Mascota
 
-![Foto de mi mascota](D:\adzaj\Descargas2\fil.jpeg)
+![Foto de mi mascota](fil.jpeg)
 
 ## Código
 
