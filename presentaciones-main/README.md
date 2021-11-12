@@ -10,15 +10,13 @@ Me llamo Álvaro Zavala y estudió en la Facultad de Informática de la UAQ
 - Jugar videojuegos
   - PC
     - Warzone
+    - Un poco de todo
 - Ver series
+- Ver deportes(fútbol,artes marciales mixtas, F1)
 
 ## Mi Mascota
 
-![Foto de mi mascota](giphy.gif)
-
-## Mi quote favorita
-
-> Divide y vencerás
+![Foto de mi mascota](D:\adzaj\Descargas2\fil.jpeg)
 
 ## Código
 
